@@ -14,10 +14,11 @@ Change 6 :- WI3 to chcek rebase with conflict.
 
 Chnage 7 :- WI5 chnage is in progress/half done work. complete
 
-Chnage for Push without -u WI6.
+Change 8 : for Push without -u WI6.
 
-Change for pull for CR4 on remote master.
+Change 9 : for pull for CR4 on remote master.
 
-Change by teammate on rmeote master for rebase with conflict for WI7.
+Change 10 : by teammate on rmeote master for rebase with conflict for WI7.
+
 
 

@@ -1,10 +1,12 @@
 Welcome to git session!
 
-Change 1 : to chk second commit for WI2.
+Change 1 :- to chk second commit for WI2.
 
-Change 2 : for fixing the bug1.
+Change 2 :- for fixing the bug1.
 
-Change 3 : for CR1 by team mate for 3-way merging with conflict.
+Change 3 :- for CR1 by team mate for 3-way merging with conflict.
 
-Change 4 : For big2 fix
+Change 4 :- For big2 fix
+
+Chnage 5 :- by teammate for CR3 rebase with conflict.
 

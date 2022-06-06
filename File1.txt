@@ -1,3 +1,5 @@
 Welcome to git session!
 
 Change 1 : to chk second commit for WI2.
+
+Change 2 for fixing the bug1

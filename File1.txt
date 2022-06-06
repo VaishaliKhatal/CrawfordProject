@@ -16,4 +16,6 @@ Chnage 7 :- WI5 chnage is in progress/half done work. complete
 
 Chnage for Push without -u WI6
 
+Change for pull for CR4 on remote master
+
 
